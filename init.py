@@ -1,1 +1,1 @@
-print()[D""[DHello World from Kazan!");
+print("Hello World from Kazan!");
